@@ -141,10 +141,6 @@ ai_codesense/
 - [ ] Custom chunk size configuration
 - [ ] Export results to JSON/HTML
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -154,5 +150,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For issues, questions, or suggestions, please open an issue on GitHub.
 
 ---
-
-**Made with ❤️ for better code quality**
