@@ -1,3 +1,5 @@
 requests
 faiss-cpu
 sentence-transformers
+python-dotenv
+
